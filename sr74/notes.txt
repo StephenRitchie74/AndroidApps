@@ -1,1 +1,6 @@
+v1.1 
+- New theme
+- Updated update checker URL
 
+v1.2 
+- Updated launcher icon
